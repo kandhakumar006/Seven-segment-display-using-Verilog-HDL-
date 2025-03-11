@@ -62,6 +62,7 @@ OUTPUT: ![Seven segment 1](https://github.com/user-attachments/assets/5b7db640-3
 
 
 ## Testbench for Seven-Segment Display:
+```
 
 module multiplexer_tb;
   // Declare inputs as reg and outputs as wire
@@ -94,6 +95,7 @@ module multiplexer_tb;
     $finish;
   end
 endmodule
+```
 
 OUTPUT: ![testbench for seven segment](https://github.com/user-attachments/assets/7cc02851-fa5a-4b62-a4d0-ecc71eda76ac)
 
