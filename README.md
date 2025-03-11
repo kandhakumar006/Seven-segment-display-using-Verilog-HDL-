@@ -34,7 +34,7 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 
 
 ## Verilog Code for Seven-Segment Display
-'''
+```
 // seven_segment_display.v
 module sevensegment;
 reg[3:0]bcd;
@@ -55,7 +55,7 @@ bcd=4'b0000;
 #2 $stop;
 end
 endmodule
-'''
+```
 
 OUTPUT: ![Seven segment 1](https://github.com/user-attachments/assets/5b7db640-33f6-457a-830e-8f26fffcf860)
 
