@@ -58,7 +58,8 @@ module seven_segment_display (
 endmodule
 ```
 # Output : 
-![SEVEN SEGMENT](https://github.com/user-attachments/assets/a353fe84-72b6-4b01-b2ea-23e30df9f6a7)
+![verilog](https://github.com/user-attachments/assets/95ef5142-8c31-4d4d-9f3d-29e4d882b747)
+
 
 # Testbench for Seven-Segment Display:
 ```
